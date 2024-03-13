@@ -1,0 +1,3 @@
+/home/noctum/Learning/CustomPtr/cmake-build-debug/CMakeFiles/CustomPtr.dir
+/home/noctum/Learning/CustomPtr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noctum/Learning/CustomPtr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
